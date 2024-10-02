@@ -1,0 +1,1 @@
+# plugins-seo-image-alt-tags
